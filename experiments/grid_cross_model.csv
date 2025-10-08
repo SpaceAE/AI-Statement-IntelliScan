@@ -1,0 +1,7 @@
+tfidf_ngram_range,tfidf_max_features,tfidf_min_df,tfidf_max_df,vocab_strategy,top_k,coverage,numeric_scaler,class_weight,n_splits
+1-2,2000,3,0.95,none,,,standard,balanced,5
+1-2,2000,5,0.95,none,,,standard,balanced,5
+1-2,5000,3,0.95,none,,,standard,balanced,5
+1-2,5000,5,0.95,none,,,standard,balanced,5
+1-2,10000,3,0.95,none,,,standard,balanced,5
+1-2,10000,5,0.95,none,,,standard,balanced,5
